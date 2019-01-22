@@ -1,7 +1,0 @@
-﻿"Frame Thick"= .125in
-"Overhang"= .0675in
-"Panel Width"= 5.5cm
-"Panel Height"= 3.5cm
-"Panel Length"= .6cm
-"Upper Angle"= 45deg
-"Lower Angle"= 15deg
